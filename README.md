@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Tisha Jha 👋
 
-<!--
-**tishajha/tishajha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 2.5+ years of experience at **Oracle Cloud Infrastructure**, working on cloud platforms, model deployment, backend services, and production systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 💻 Software Engineer at **Oracle Cloud Infrastructure**
+* ☁️ Experienced in **cloud platforms, backend systems, and production operations**
+* 🧠 Currently learning **Python, FastAPI, microservices, system design, and DSA**
+* 🛠️ Interested in **backend engineering, platform engineering, and AI automation**
+* 🌍 Open to backend/platform engineering opportunities
+
+---
+
+## Tech Stack
+
+**Languages:** Java, Python, JavaScript, C++
+**Backend:** FastAPI, Spring Boot, REST APIs, Microservices
+**Cloud & DevOps:** Oracle Cloud, Docker, Kubernetes, Terraform, Git
+**Database & Tools:** PostgreSQL, Redis, Grafana
+
+---
+
+## Projects
+
+### Gatekeeper RBAC
+
+Role-based access control backend project using **Python and FastAPI**.
+
+### DSA Practice
+
+Collection of interview-focused DSA solutions in **C++ and Python**.
+
+---
+
+## Current Focus
+
+* Building backend projects with Python and FastAPI
+* Preparing for Software Engineer II roles
+* Practicing DSA and system design
+* Exploring AI agents and automation in future projects
+
+---
+
+## Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/YOUR_GITHUB_USERNAME) | [Email](mailto:YOUR_EMAIL_ID)
+
+---
+
+> Keep learning, keep building, one commit at a time.
