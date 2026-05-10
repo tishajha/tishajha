@@ -46,7 +46,7 @@ Collection of interview-focused DSA solutions in **C++ and Python**.
 
 ## Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/YOUR_GITHUB_USERNAME) | [Email](mailto:YOUR_EMAIL_ID)
+[LinkedIn](https://www.linkedin.com/in/tisha-jha-6319601b5/) | [GitHub](https://github.com/tishajha) | [Email](tishajha.71@gmail.com)
 
 ---
 
