@@ -1,6 +1,6 @@
 # Hi, I'm Tisha Jha 👋
 
-Software Engineer with 2.5+ years of experience at **Oracle Cloud Infrastructure**, working on cloud platforms, model deployment, backend services, and production systems.
+Software Engineer with 3 years of experience at **Oracle Cloud Infrastructure**, working on cloud platforms, model deployment, backend services, and production systems.
 
 ---
 
